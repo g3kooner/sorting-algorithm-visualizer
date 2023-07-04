@@ -8,4 +8,7 @@ Outline: This project visualizes the internal sorting processes for some of the 
 ```g++ main.cpp -o game.exe -O2 -Wall -Wno-missing-braces -I /include -L lib/ -lraylib -lopengl32 -lgdi32 -lwinmm```
 
 ## Demo Samples
-<img src="samples/merge.gif" width="330" height="330"/> <img src="samples/quick.gif" width="330" height="330"/> <img src="samples/insertion.gif" width="330" height="330"/> <img src="samples/bubble.gif" width="330" height="330"/>  
+<img src="samples/merge.gif" width="330" height="330"/> <img src="samples/quick.gif" width="330" height="330"/> <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;**merge sort**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&ensp;**quick sort** <br/>
+<img src="samples/insertion.gif" width="330" height="330"/> <img src="samples/bubble.gif" width="330" height="330"/>  <br/>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;**insertion sort**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;**bubble sort** <br/>
